@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GitHub-Account-Search/static/css/main.1f97baf2.css",
+    "main.js": "/GitHub-Account-Search/static/js/main.377662f5.js",
+    "index.html": "/GitHub-Account-Search/index.html",
+    "main.1f97baf2.css.map": "/GitHub-Account-Search/static/css/main.1f97baf2.css.map",
+    "main.377662f5.js.map": "/GitHub-Account-Search/static/js/main.377662f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f97baf2.css",
+    "static/js/main.377662f5.js"
+  ]
+}
